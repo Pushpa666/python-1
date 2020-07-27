@@ -1,0 +1,4 @@
+#area of a circle
+  1.import math
+  2.r=float(input("enter the radius of circle:")
+  3.print("%.2f"%area)
